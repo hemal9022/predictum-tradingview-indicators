@@ -9,4 +9,12 @@ predictum & gg shot, both has same strategy
 message on telegram - @earnlike_pro
 
 they are giving full code so anyone can use in algo trading..... 
-#tradingview #indicator #algo #tradingview-strategy #strategy #code #pinescript 
+#tradingview
+#indicator 
+#algo 
+#tradingview-strategy
+#strategy 
+#code 
+#pinescript 
+#crypto 
+#bitcoin 
