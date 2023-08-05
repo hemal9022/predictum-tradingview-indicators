@@ -6,7 +6,7 @@ finally able to get tradingview indicator,of
 
 predictum & gg shot, both has same strategy
 
-message on telegram - @earnlike_pro
+message on telegram - @tradingview_premium_indicator 
 
 they are giving full code so anyone can use in algo trading..... 
 #tradingview
