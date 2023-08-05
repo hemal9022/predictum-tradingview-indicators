@@ -1,3 +1,7 @@
+
+
+https://github.com/hemal9022/predictum-tradingview-indicators/assets/113241323/9c61bc7f-1995-4bfd-9ef7-86a16f110676
+
 ![predictum - telegram (earnlike_pro)](https://github.com/hemal9022/premium-tradingview-indicators/assets/113241323/4683677d-32b8-40a2-a0b4-f372a0df9e88)
 ![IMG_20230624_021416](https://github.com/hemal9022/premium-tradingview-indicators/assets/113241323/a0d66423-c949-46dc-8746-141c1b400b96)
 # predictum -tradingview-indicators
