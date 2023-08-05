@@ -9,6 +9,10 @@ predictum & gg shot, both has same strategy
 message on telegram - @tradingview_premium_indicator 
 
 they are giving full code so anyone can use in algo trading..... 
+
+THEY HAVE LOTS OF PREMIUM TRADINGVIEW INDICATOR CODES     
+
+
 #tradingview
 #indicator 
 #algo 
